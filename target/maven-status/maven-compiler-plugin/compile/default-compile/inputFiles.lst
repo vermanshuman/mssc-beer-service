@@ -1,0 +1,11 @@
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\mapper\BeerMapper.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\web\controller\MvcExceptionHandler.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\domain\Beer.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\bootstrap\BeerLoader.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\web\controller\BeerController.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\mapper\DateMapper.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\web\model\BeerStyleEnum.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\web\model\BeerPagedList.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\MsscBeerServiceApplication.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\repositories\BeerRepository.java
+G:\gitlab\mssc-beer-service\src\main\java\com\tychon\msscbeerservice\web\model\BeerDto.java

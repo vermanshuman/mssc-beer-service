@@ -1,0 +1,4 @@
+com\tychon\msscbeerservice\web\controller\MvcExceptionHandler.class
+com\tychon\msscbeerservice\mapper\DateMapper.class
+com\tychon\msscbeerservice\mapper\BeerMapper.class
+com\tychon\msscbeerservice\mapper\BeerMapperImpl.class
